@@ -1,0 +1,3 @@
+please dont forget to execute the view table
+ in order that the queries that use it
+will work
